@@ -1,0 +1,781 @@
+#EXTM3U
+#EXTINF:-1 ,====== 港澳频道,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 ,TVB 翡翠台
+http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
+#EXTINF:-1 ,香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,无线翡翠台
+http://103.40.13.71:12390/mytv/live.php?id=8
+#EXTINF:-1 ,凤凰卫视台
+http://103.40.13.71:12390/mytv/live.php?id=1
+#EXTINF:-1 ,凤凰资讯台
+http://103.40.13.71:12390/mytv/live.php?id=2
+#EXTINF:-1 ,无线新闻台
+http://103.40.13.71:12390/mytv/live.php?id=7
+#EXTINF:-1 ,无线明珠台
+http://103.40.13.71:12390/mytv/live.php?id=9
+#EXTINF:-1 ,凤凰卫视中文台
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 ,凤凰卫视资讯台
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 ,无线新闻粤
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 ,凤凰香港台
+http://103.40.13.71:12390/mytv/live.php?id=3
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,凤凰中文
+http://hikvision.city:880/fhws.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+#EXTINF:-1 ,星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 ,耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 ,CGNTV1
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGNTV2
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,CGNTV3
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGNTV4
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,CGNTV5
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 ,TVB功夫
+https://s2.pub/CCTV-20
+#EXTINF:-1 ,经典功夫
+http://data.3g.yy.com/live/hls/1355002394/1355002394
+#EXTINF:-1 ,环球电视
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 ,亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1 ,28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 ,Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 ,Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 ,Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 ,Hoy 78
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+#EXTINF:-1 ,myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 ,PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 ,ROCK
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 ,TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 ,TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 ,TVBS-新聞
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 ,tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 ,中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 ,中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 ,中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 ,千禧經典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 ,娛樂新聞台,(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 ,寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 ,日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 ,明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 ,明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 ,無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 ,美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 ,翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 ,翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 ,翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 ,華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 ,靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 ,鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 ,黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 ,龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 ,龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 ,龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 ,Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 ,TVB 星河台
+https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
+#EXTINF:-1 ,viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 ,viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 ,无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 ,爆谷台
+https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
+#EXTINF:-1 ,Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 ,C+台
+http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+#EXTINF:-1 ,DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 ,France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 ,KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 ,Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 ,NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 ,Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 ,ROCK Action
+http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+#EXTINF:-1 ,Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 ,ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 ,亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 ,東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 ,無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 ,神州新聞台
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 ,星影台
+https://www.mytvsuper.xyz/1/now/stream.m3u8
+#EXTINF:-1 ,千禧经典台
+https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
+#EXTINF:-1 ,TVB生活台
+https://www.mytvsuper.xyz/tvb/Finance/stream.m3u8
+#EXTINF:-1 ,====== ??历届春晚,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,春晚1984
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 ,春晚1985
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 ,春晚1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 ,春晚1987
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 ,西游齐天乐1987
+http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
+#EXTINF:-1 ,春晚1988
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 ,春晚1989
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1 ,春晚1991
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 ,春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 ,春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 ,春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 ,春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 ,春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 ,春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 ,春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 ,春晚2000
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 ,春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 ,春晚2002
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 ,春晚2004
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 ,春晚2005
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 ,春晚2006
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 ,春晚2007
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 ,春晚2008
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 ,春晚2009
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 ,春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 ,春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 ,春晚2020
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 ,春晚2021
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 ,春晚2022
+http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 ,春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 ,春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 ,春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 ,春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 ,春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 ,春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 ,春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 ,春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 ,春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 ,春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 ,春晚2020
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 ,====== ??中秋晚会,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,2024中央广播电视总台中秋晚会HD
+https://svip.high22-playback.com/20240918/11051_bc5c11c0/index.m3u8
+#EXTINF:-1 ,2024北京卫视“居庸山月”中秋晚会HD
+https://svip.high25-playback.com/20240916/6493_4d133c65/index.m3u8
+#EXTINF:-1 ,2024东方卫视·中秋奇妙夜HD
+https://svip.high22-playback.com/20240917/11003_20b86a3b/index.m3u8
+#EXTINF:-1 ,2024湖南卫视中秋晚会HD
+https://svip.high22-playback.com/20240918/11052_45443612/index.m3u8
+#EXTINF:-1 ,2024山东中秋晚会HD
+https://svip.high25-playback.com/20240918/6585_04b4dec2/index.m3u8
+#EXTINF:-1 ,2024海峡两岸(漳州)中秋晚会HD
+https://svip.high22-playback.com/20240918/11050_fc85a892/index.m3u8
+#EXTINF:-1 ,2024央视13频道喜满中秋夜HD
+https://svip.high25-playback.com/20240917/6547_07b21e47/index.m3u8
+#EXTINF:-1 ,2024河南卫视中秋奇妙游HD
+https://svip.high25-playback.com/20240916/6489_87a9e4b9/index.m3u8
+#EXTINF:-1 ,2024河南卫视中秋奇妙游HD
+https://svip.high22-playback.com/20240916/10948_9559e5b8/index.m3u8$纯享版
+#EXTINF:-1 ,花好月圆会·2024bilibili中秋漫游夜HD
+https://svip.high25-playback.com/20240917/6546_739a0134/index.m3u8
+#EXTINF:-1 ,====== ??经典电影,#genre# ======
+http://3/3.m3u8
+#EXTINF:-1 ,倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 ,倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 ,倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 ,让子弹飞
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+#EXTINF:-1 ,人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 ,人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 ,人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 ,人在囧途之囧妈
+https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+#EXTINF:-1 ,无间道1
+https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+#EXTINF:-1 ,无间道3:终极无间
+https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+#EXTINF:-1 ,拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 ,拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 ,我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 ,卧虎藏龙
+https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+#EXTINF:-1 ,满城尽带黄金甲
+https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+#EXTINF:-1 ,大话西游至尊宝
+http://nas.dylove.xyz:35455/yy/1382736910
+#EXTINF:-1 ,美国队长史蒂夫
+http://nas.dylove.xyz:35455/yy/1382736813
+#EXTINF:-1 ,变形金刚
+http://nas.dylove.xyz:35455/yy/1382736803
+#EXTINF:-1 ,赛车
+http://cfss.cc/cdn/hy/11279247.flv
+#EXTINF:-1 ,死神来了
+http://cfss.cc/cdn/hy/11352903.flv
+#EXTINF:-1 ,====== ??广播电台,#genre# ======
+http://4/4.m3u8
+#EXTINF:-1 ,Big B Radio-中文流行
+http://cpop.bigbradio.net/s
+#EXTINF:-1 ,Big B Radio-韩语流行
+http://kpop.bigbradio.net/s
+#EXTINF:-1 ,Big B Radio-日语流行
+http://jpop.bigbradio.net/s
+#EXTINF:-1 ,Big B Radio-亚洲流行
+http://apop.bigbradio.net/s
+#EXTINF:-1 ,河南新闻广播
+https://stream.hndt.com/live/xinwen/playlist.m3u8
+#EXTINF:-1 ,河南经济广播
+https://stream.hndt.com/live/jingji/playlist.m3u8
+#EXTINF:-1 ,河南交通广播
+https://stream.hndt.com/live/jiaotong/playlist.m3u8
+#EXTINF:-1 ,河南戏曲广播
+https://stream.hndt.com/live/yule/playlist.m3u8
+#EXTINF:-1 ,河南音乐广播
+https://stream.hndt.com/live/yinyue/playlist.m3u8
+#EXTINF:-1 ,CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 ,CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 ,CNR文艺之声
+http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+#EXTINF:-1 ,CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 ,====== ???经典剧集,#genre# ======
+http://5/5.m3u8
+#EXTINF:-1 ,庆余年
+http://159.75.85.63:35455/huya/11352960?cdn=txcdn
+#EXTINF:-1 ,庆余年
+http://159.75.85.63:35455/huya/11352960?cdn=hwcdn
+#EXTINF:-1 ,重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 ,重温经典
+http://mtw.so/5NPX0U
+#EXTINF:-1 ,金庸剧场
+http://live.dxms.top/dwy/jyjc.php
+#EXTINF:-1 ,星光剧场
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 ,经典喜剧
+http://live.dxms.top/dwy/jdxj1.php
+#EXTINF:-1 ,经典喜剧
+http://live.dxms.top/dwy/jdxj.php
+#EXTINF:-1 ,抗战剧
+http://live.iill.top/yy.php?id=1507704566
+#EXTINF:-1 ,封神榜86版
+http://live.iill.top/yy.php?id=1353426319
+#EXTINF:-1 ,红楼梦87版
+http://live.iill.top/yy.php?id=1382745084
+#EXTINF:-1 ,三国演义94版
+http://live.iill.top/yy.php?id=1354930932
+#EXTINF:-1 ,新水浒传11版
+http://159.75.85.63:35455/huya/11342384?cdn=txcdn
+#EXTINF:-1 ,新水浒传11版
+http://159.75.85.63:35455/huya/11342384?cdn=hscdn
+#EXTINF:-1 ,新水浒传11版
+http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
+#EXTINF:-1 ,天龙八部黄日华版
+http://live.iill.top/yy.php?id=1351814644
+#EXTINF:-1 ,神雕侠侣古天乐版
+http://159.75.85.63:35455/huya/23865171?cdn=hwcdn
+#EXTINF:-1 ,笑傲江湖吕颂贤版
+http://159.75.85.63:35455/huya/23865142?cdn=txcdn
+#EXTINF:-1 ,笑傲江湖吕颂贤版
+http://159.75.85.63:35455/huya/23865142?cdn=hwcdn
+#EXTINF:-1 ,倚天屠龙记吴启华版
+http://159.75.85.63:35455/huya/23734246?cdn=txcdn
+#EXTINF:-1 ,倚天屠龙记吴启华版
+http://159.75.85.63:35455/huya/23734246?cdn=hwcdn
+#EXTINF:-1 ,倚天屠龙记苏有朋版
+http://live.iill.top/yy.php?id=1449856066
+#EXTINF:-1 ,包青天93
+http://live.iill.top/yy.php?id=1356158015
+#EXTINF:-1 ,神雕侠侣
+http://live.iill.top/yy.php?id=1351762426
+#EXTINF:-1 ,鹿鼎记
+http://live.iill.top/yy.php?id=28265277
+#EXTINF:-1 ,笑傲江湖
+http://live.iill.top/yy.php?id=1354930909
+#EXTINF:-1 ,武林外传
+http://live.iill.top/yy.php?id=21092633
+#EXTINF:-1 ,四大名捕
+http://live.iill.top/yy.php?id=1354936203
+#EXTINF:-1 ,笑傲江湖2
+http://live.iill.top/yy.php?id=1354282410
+#EXTINF:-1 ,寻秦记
+http://live.iill.top/yy.php?id=1382851591
+#EXTINF:-1 ,寒山潜龙
+http://live.iill.top/yy.php?id=1382745103
+#EXTINF:-1 ,隋唐英雄传
+http://live.iill.top/yy.php?id=1352475619
+#EXTINF:-1 ,老三国
+http://159.75.85.63:35455/huya/11602081?cdn=hwcdn
+#EXTINF:-1 ,新三国
+http://159.75.85.63:35455/huya/11352944?cdn=txcdn
+#EXTINF:-1 ,新三国
+http://159.75.85.63:35455/huya/11352944?cdn=hscdn
+#EXTINF:-1 ,新三国
+http://159.75.85.63:35455/huya/11352944?cdn=hwcdn
+#EXTINF:-1 ,雍正王朝
+http://159.75.85.63:35455/huya/11342439?cdn=txcdn
+#EXTINF:-1 ,雍正王朝
+http://159.75.85.63:35455/huya/11342439?cdn=hwcdn
+#EXTINF:-1 ,少年包青天
+http://live.iill.top/yy.php?id=1356043677
+#EXTINF:-1 ,少年包青天1-3
+http://live.iill.top/yy.php?id=38498680
+#EXTINF:-1 ,少年包青天3
+http://live.iill.top/yy.php?id=1382851540
+#EXTINF:-1 ,风云雄霸天下
+http://159.75.85.63:35455/huya/21059612?cdn=txcdn
+#EXTINF:-1 ,风云雄霸天下
+http://159.75.85.63:35455/huya/21059612?cdn=hscdn
+#EXTINF:-1 ,风云雄霸天下
+http://159.75.85.63:35455/huya/21059612?cdn=hwcdn
+#EXTINF:-1 ,封神榜陈浩民版
+http://159.75.85.63:35455/huya/23749096?cdn=hwcdn
+#EXTINF:-1 ,少年张三丰
+http://159.75.85.63:35455/huya/26355824?cdn=hwcdn
+#EXTINF:-1 ,倚天屠龙记
+http://159.75.85.63:35455/huya/11342403?cdn=txcdn
+#EXTINF:-1 ,燕双鹰
+http://live.iill.top/yy.php?id=1354143942
+#EXTINF:-1 ,武工队传奇
+http://live.iill.top/yy.php?id=22089862
+#EXTINF:-1 ,打狗棍
+http://live.iill.top/yy.php?id=39736069
+#EXTINF:-1 ,地下交通站
+http://live.iill.top/yy.php?id=37880083
+#EXTINF:-1 ,地下交通站
+http://live.iill.top/yy.php?id=1382736795
+#EXTINF:-1 ,地下交通站
+http://live.iill.top/yy.php?id=1353428972
+#EXTINF:-1 ,地下交通站
+http://159.75.85.63:35455/huya/11342433?cdn=hwcdn
+#EXTINF:-1 ,小兵张嘎
+http://live.iill.top/yy.php?id=1354930225
+#EXTINF:-1 ,游击队
+http://159.75.85.63:35455/huya/11352936?cdn=txcdn
+#EXTINF:-1 ,狼毒花
+http://159.75.85.63:35455/huya/11602042?cdn=txcdn
+#EXTINF:-1 ,二炮手
+http://live.iill.top/yy.php?id=1354930964
+#EXTINF:-1 ,老农民
+http://159.75.85.63:35455/huya/29580971?cdn=txcdn
+#EXTINF:-1 ,新水浒传11版
+http://cfss.cc/cdn/hy/11342384.flv
+#EXTINF:-1 ,笑傲江湖吕颂贤版
+http://cfss.cc/cdn/hy/23865142.flv
+#EXTINF:-1 ,鹿鼎记陈小春版
+http://cfss.cc/cdn/hy/23865080.flv
+#EXTINF:-1 ,铁齿铜牙纪晓岚
+http://cfss.cc/cdn/hy/11342396.flv
+#EXTINF:-1 ,康熙王朝
+http://cfss.cc/cdn/hy/11352940.flv
+#EXTINF:-1 ,雍正王朝
+http://cfss.cc/cdn/hy/11342439.flv
+#EXTINF:-1 ,庆余年
+http://cfss.cc/cdn/hy/11352960.flv
+#EXTINF:-1 ,爱情公寓
+http://cfss.cc/cdn/hy/11336726.flv
+#EXTINF:-1 ,繁花
+http://cfss.cc/cdn/hy/21059580.flv
+#EXTINF:-1 ,鬼吹灯之龙岭迷窟
+http://cfss.cc/cdn/hy/29465863.flv
+#EXTINF:-1 ,鬼吹灯之昆仑神宫
+http://cfss.cc/cdn/hy/11601957.flv
+#EXTINF:-1 ,鬼吹灯之南海归墟
+https://live.metshop.top/huya/11352883
+#EXTINF:-1 ,刑事侦缉档案
+http://cfss.cc/cdn/hy/23734169.flv
+#EXTINF:-1 ,鉴证实录
+http://cfss.cc/cdn/hy/23903183.flv
+#EXTINF:-1 ,扫黄先锋
+http://cfss.cc/cdn/hy/23903196.flv
+#EXTINF:-1 ,陀枪师姐
+http://cfss.cc/cdn/hy/23860039.flv
+#EXTINF:-1 ,创世纪
+http://cfss.cc/cdn/hy/23749083.flv
+#EXTINF:-1 ,楚汉骄雄
+http://cfss.cc/cdn/hy/23740156.flv
+#EXTINF:-1 ,大唐双龙传
+http://cfss.cc/cdn/hy/23728674.flv
+#EXTINF:-1 ,鬼吹灯之云南虫谷
+https://live.metshop.top/huya/11352898
+#EXTINF:-1 ,法证先锋Ⅳ
+http://cfss.cc/cdn/hy/23829543.flv
+#EXTINF:-1 ,中华小当家
+http://159.75.85.63:35455/huya/24257300?cdn=hwcdn
+#EXTINF:-1 ,网球王子
+http://159.75.85.63:35455/huya/11352882?cdn=txcdn
+#EXTINF:-1 ,斗罗大陆
+http://159.75.85.63:35455/huya/11352906?cdn=hscdn
+#EXTINF:-1 ,斗罗大陆
+http://159.75.85.63:35455/huya/11352906?cdn=hwcdn
+#EXTINF:-1 ,知否知否
+http://live.iill.top/yy.php?id=21881901
+#EXTINF:-1 ,正阳门下
+http://live.iill.top/yy.php?id=1354931580
+#EXTINF:-1 ,神医喜来乐
+http://live.iill.top/yy.php?id=1382714119
+#EXTINF:-1 ,宰相刘罗锅
+http://live.iill.top/yy.php?id=1382745191
+#EXTINF:-1 ,康熙微服私访记
+http://live.iill.top/yy.php?id=1352811698
+#EXTINF:-1 ,康熙王朝
+http://159.75.85.63:35455/huya/11352940?cdn=hwcdn
+#EXTINF:-1 ,大汉天子
+http://live.iill.top/yy.php?id=1382736807
+#EXTINF:-1 ,忠烈杨家将
+http://live.iill.top/yy.php?id=1382749909
+#EXTINF:-1 ,少年歌行
+http://live.iill.top/yy.php?id=1450556636
+#EXTINF:-1 ,鹊刀门传奇
+http://live.iill.top/yy.php?id=1355344777
+#EXTINF:-1 ,花千骨
+http://live.iill.top/yy.php?id=1354943110
+#EXTINF:-1 ,花千骨hy
+http://159.75.85.63:35455/huya/26355839?cdn=txcdn
+#EXTINF:-1 ,神探狄仁杰
+http://live.iill.top/yy.php?id=1351755386
+#EXTINF:-1 ,神探狄仁杰hy
+http://159.75.85.63:35455/huya/11342425?cdn=hwcdn
+#EXTINF:-1 ,李卫当官
+http://159.75.85.63:35455/huya/26355788?cdn=hwcdn
+#EXTINF:-1 ,大宋提刑官
+http://159.75.85.63:35455/huya/26355856?cdn=txcdn
+#EXTINF:-1 ,仙剑奇侠传
+http://live.iill.top/yy.php?id=1382749903
+#EXTINF:-1 ,武林外传
+http://live.iill.top/yy.php?id=1355652820
+#EXTINF:-1 ,宝莲灯前传
+http://live.iill.top/yy.php?id=1354931631
+#EXTINF:-1 ,宝莲灯前传HY
+http://159.75.85.63:35455/huya/21059563?cdn=txcdn
+#EXTINF:-1 ,西游记
+http://159.75.85.63:35455/huya/26355861?cdn=txcdn
+#EXTINF:-1 ,西游记后传
+http://live.iill.top/yy.php?id=1382736846
+#EXTINF:-1 ,西游记张卫健版
+http://live.iill.top/yy.php?id=1354936155
+#EXTINF:-1 ,西游记2
+http://159.75.85.63:35455/huya/29465859?cdn=txcdn
+#EXTINF:-1 ,济公游记
+http://live.iill.top/yy.php?id=1355265814
+#EXTINF:-1 ,新白娘子传奇
+http://live.iill.top/yy.php?id=1354930969
+#EXTINF:-1 ,太子妃升职记
+http://live.iill.top/yy.php?id=1354932359
+#EXTINF:-1 ,楚汉骄雄
+http://159.75.85.63:35455/huya/23740156?cdn=hwcdn
+#EXTINF:-1 ,洗冤录
+http://159.75.85.63:35455/huya/23903130?cdn=hwcdn
+#EXTINF:-1 ,金玉满堂
+http://live.iill.top/yy.php?id=1382736881
+#EXTINF:-1 ,天下第一
+http://live.iill.top/yy.php?id=1382736838
+#EXTINF:-1 ,公主嫁到
+http://live.iill.top/yy.php?id=1382736915
+#EXTINF:-1 ,延禧攻略
+http://159.75.85.63:35455/huya/26355864?cdn=txcdn
+#EXTINF:-1 ,延禧攻略
+http://159.75.85.63:35455/huya/26355864?cdn=hwcdn
+#EXTINF:-1 ,宫心计
+http://live.iill.top/yy.php?id=1354932429
+#EXTINF:-1 ,寻秦记
+http://live.iill.top/yy.php?id=1382749900
+#EXTINF:-1 ,福贵
+http://live.iill.top/yy.php?id=1354926537
+#EXTINF:-1 ,金婚
+http://live.iill.top/yy.php?id=1382736832
+#EXTINF:-1 ,黑冰
+http://live.iill.top/yy.php?id=1354932427
+#EXTINF:-1 ,天道
+http://live.iill.top/yy.php?id=1382735574
+#EXTINF:-1 ,父母爱情
+http://live.iill.top/yy.php?id=1354926650
+#EXTINF:-1 ,情满四合院
+http://live.iill.top/yy.php?id=1382736888
+#EXTINF:-1 ,爱情公寓
+http://159.75.85.63:35455/huya/11336726?cdn=txcdn
+#EXTINF:-1 ,爱情公寓
+http://159.75.85.63:35455/huya/11336726?cdn=hwcdn
+#EXTINF:-1 ,爱情公寓dy
+http://tv.wuzhij.com/douyu/6863367
+#EXTINF:-1 ,我爱我家
+http://live.iill.top/yy.php?id=1382735557
+#EXTINF:-1 ,回家的诱惑
+http://live.iill.top/yy.php?id=1354658048
+#EXTINF:-1 ,放羊的星星
+http://live.iill.top/yy.php?id=1355260662
+#EXTINF:-1 ,来自星星的你
+http://live.iill.top/yy.php?id=1354930976
+#EXTINF:-1 ,上海滩80版
+http://live.iill.top/yy.php?id=1382745184
+#EXTINF:-1 ,大江大河
+http://live.iill.top/yy.php?id=1382736806
+#EXTINF:-1 ,大江大河2
+http://live.iill.top/yy.php?id=1382736797
+#EXTINF:-1 ,狂飙
+http://live.iill.top/yy.php?id=1355142167
+#EXTINF:-1 ,我的前半生
+http://live.iill.top/yy.php?id=1382735564
+#EXTINF:-1 ,小欢喜
+http://live.iill.top/yy.php?id=1382737888
+#EXTINF:-1 ,欢乐颂
+http://tv.wuzhij.com/douyu/3756989
+#EXTINF:-1 ,好先生
+http://tv.wuzhij.com/douyu/9650792
+#EXTINF:-1 ,情满四合院
+http://live.iill.top/yy.php?id=1382745089
+#EXTINF:-1 ,生逢灿烂的日子
+http://live.iill.top/yy.php?id=1382745085
+#EXTINF:-1 ,士兵突击yy
+http://live.iill.top/yy.php?id=1382828766
+#EXTINF:-1 ,士兵突击
+http://159.75.85.63:35455/huya/11342430?cdn=hwcdn
+#EXTINF:-1 ,火蓝刀锋
+http://live.iill.top/yy.php?id=1382737892
+#EXTINF:-1 ,特种兵火凤凰
+http://live.iill.top/yy.php?id=1463088777
+#EXTINF:-1 ,怪医文三块
+http://live.iill.top/yy.php?id=1354936154
+#EXTINF:-1 ,邻里一家亲
+http://159.75.85.63:35455/huya/11342426?cdn=txcdn
+#EXTINF:-1 ,邻里一家亲
+http://159.75.85.63:35455/huya/11342426?cdn=hwcdn
+#EXTINF:-1 ,风筝
+http://live.iill.top/yy.php?id=1354931585
+#EXTINF:-1 ,伪装者
+http://live.iill.top/yy.php?id=1382851593
+#EXTINF:-1 ,叛逆者
+http://live.iill.top/yy.php?id=1382736868
+#EXTINF:-1 ,鬼吹灯之怒晴湘西
+http://159.75.85.63:35455/huya/11602075?cdn=txcdn
+#EXTINF:-1 ,鬼吹灯之怒晴湘西
+http://159.75.85.63:35455/huya/11602075?cdn=hwcdn
+#EXTINF:-1 ,鬼吹灯之龙岭迷窟
+http://159.75.85.63:35455/huya/29465863?cdn=hscdn
+#EXTINF:-1 ,鬼吹灯之龙岭迷窟
+http://159.75.85.63:35455/huya/29465863?cdn=hwcdn
+#EXTINF:-1 ,鬼吹灯之昆仑神宫
+http://159.75.85.63:35455/huya/11601957?cdn=txcdn
+#EXTINF:-1 ,鬼吹灯之昆仑神宫
+http://159.75.85.63:35455/huya/11601957?cdn=hwcdn
+#EXTINF:-1 ,鬼吹灯之云南虫谷
+http://159.75.85.63:35455/huya/11352898?cdn=txcdn
+#EXTINF:-1 ,鬼吹灯之南海归墟
+http://159.75.85.63:35455/huya/11352883?cdn=txcdn
+#EXTINF:-1 ,鬼吹灯之南海归墟
+http://159.75.85.63:35455/huya/11352883?cdn=hwcdn
+#EXTINF:-1 ,使徒行者
+http://159.75.85.63:35455/huya/23734256?cdn=txcdn
+#EXTINF:-1 ,飞虎之雷霆极战
+http://live.iill.top/yy.php?id=1382736869
+#EXTINF:-1 ,飞虎之潜行极战
+http://live.iill.top/yy.php?id=1354932420
+#EXTINF:-1 ,法证先锋Ⅰ
+http://live.iill.top/yy.php?id=1354930939
+#EXTINF:-1 ,法证先锋Ⅱ
+http://live.iill.top/yy.php?id=1354888736
+#EXTINF:-1 ,法证先锋Ⅲ
+http://159.75.85.63:35455/huya/23863804?cdn=txcdn
+#EXTINF:-1 ,法证先锋Ⅳ
+http://159.75.85.63:35455/huya/23829543?cdn=txcdn
+#EXTINF:-1 ,谈判专家
+http://live.iill.top/yy.php?id=1382735560
+#EXTINF:-1 ,读心神探
+http://live.iill.top/yy.php?id=1382736875
+#EXTINF:-1 ,读心神探2节点
+http://live.iill.top/yy.php?id=1382851589
+#EXTINF:-1 ,心理追凶
+http://live.iill.top/yy.php?id=1354936207
+#EXTINF:-1 ,机动部队
+http://live.iill.top/yy.php?id=1354932371
+#EXTINF:-1 ,刑事侦缉档案
+http://m.wuzhij.com/huya.php?id=23734169&cdn=txcdn
+#EXTINF:-1 ,刑事侦缉档案
+http://159.75.85.63:35455/huya/23734169?cdn=txcdn
+#EXTINF:-1 ,刑事侦缉档案
+http://159.75.85.63:35455/huya/23734169?cdn=hwcdn
+#EXTINF:-1 ,鉴证实录
+http://m.wuzhij.com/huya.php?id=23903183
+#EXTINF:-1 ,鉴证实录
+http://159.75.85.63:35455/huya/23903183?cdn=hwcdn
+#EXTINF:-1 ,扫黄先锋
+http://m.wuzhij.com/huya.php?id=23903196
+#EXTINF:-1 ,扫黄先锋
+http://159.75.85.63:35455/huya/23903196?cdn=hwcdn
+#EXTINF:-1 ,陀枪师姐
+http://m.wuzhij.com/huya.php?id=23860039
+#EXTINF:-1 ,陀枪师姐
+http://159.75.85.63:35455/huya/23860039?cdn=txcdn
+#EXTINF:-1 ,陀枪师姐
+http://159.75.85.63:35455/huya/23860039?cdn=hwcdn
+#EXTINF:-1 ,创世纪
+http://m.wuzhij.com/huya.php?id=23749083
+#EXTINF:-1 ,创世纪
+http://159.75.85.63:35455/huya/23749083?cdn=hwcdn
+#EXTINF:-1 ,流金岁月
+http://live.iill.top/yy.php?id=1382736891
+#EXTINF:-1 ,大时代
+http://159.75.85.63:35455/huya/23865161?cdn=hwcdn
+#EXTINF:-1 ,溏心风暴之家好月圆
+http://live.iill.top/yy.php?id=1354888747
+#EXTINF:-1 ,名媛望族
+http://live.iill.top/yy.php?id=1354932431
+#EXTINF:-1 ,游击队
+https://live.metshop.top/huya/11352936?cdn=txcdn
+#EXTINF:-1 ,狼毒花
+https://live.metshop.top/huya/11602042?cdn=txcdn
+#EXTINF:-1 ,樱桃小丸子
+https://live.metshop.top/huya/11342394?cdn=txcdn
+#EXTINF:-1 ,网球王子
+https://live.metshop.top/huya/11352882?cdn=txcdn
+#EXTINF:-1 ,新水浒传11版
+https://live.metshop.top/huya/11342384?cdn=txcdn
+#EXTINF:-1 ,笑傲江湖吕颂贤版
+https://live.metshop.top/huya/23865142?cdn=txcdn
+#EXTINF:-1 ,倚天屠龙记吴启华版
+https://live.metshop.top/huya/23734246?cdn=txcdn
+#EXTINF:-1 ,新三国
+https://live.metshop.top/huya/11352944?cdn=txcdn
+#EXTINF:-1 ,雍正王朝
+https://live.metshop.top/huya/11342439?cdn=txcdn
+#EXTINF:-1 ,封神榜陈浩民版
+https://live.metshop.top/huya/23749096?cdn=txcdn
+#EXTINF:-1 ,少年张三丰
+https://live.metshop.top/huya/26355824?cdn=txcdn
+#EXTINF:-1 ,倚天屠龙记
+https://live.metshop.top/huya/11342403?cdn=txcdn
+#EXTINF:-1 ,花千骨
+https://live.metshop.top/huya/26355839?cdn=txcdn
+#EXTINF:-1 ,延禧攻略
+https://live.metshop.top/huya/26355864?cdn=txcdn
+#EXTINF:-1 ,爱情公寓
+https://live.metshop.top/huya/11336726?cdn=txcdn
+#EXTINF:-1 ,邻里一家亲
+https://live.metshop.top/huya/11342426?cdn=txcdn
+#EXTINF:-1 ,鬼吹灯之云南虫谷
+https://live.metshop.top/huya/11352898?cdn=txcdn
+#EXTINF:-1 ,鬼吹灯之南海归墟
+https://live.metshop.top/huya/11352883?cdn=txcdn
+#EXTINF:-1 ,鉴证实录
+https://live.metshop.top/huya/23903183?cdn=txcdn
+#EXTINF:-1 ,陀枪师姐
+https://live.metshop.top/huya/23860039?cdn=txcdn
+#EXTINF:-1 ,创世纪
+https://live.metshop.top/huya/23749083?cdn=txcdn
+#EXTINF:-1 ,解说_大象放映室
+http://cfss.cc/cdn/hy/21277391.flv
+#EXTINF:-1 ,解说_虎妞说电影
+http://cfss.cc/cdn/hy/20343144.flv
